@@ -1,0 +1,35 @@
+_repo: Figures-of-Several-Centuries_21407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+description: ''
+gutenberg_issued: '2007-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Authors'
+tableOfContents: Saint Augustine -- Charles Lamb -- Villon -- Casanova at Dux -- John
+  Donne -- Emily Brontë -- Edgar Allan Poe -- Thomas Lovell Beddoes -- Gustave Flaubert
+  -- George Meredith as a poet -- Algernon Charles Swinburne -- Dante Gabriel Rossetti
+  -- A note on the genius of Thomas Hardy -- Léon Cladel -- Henrik Ibsen -- Joris-Karl
+  Huysmans -- Two symbolists [Mallarmé and Villiers de l'Isle-Adam] -- Charles Baudelaire
+  -- Walter Pater -- The Goncourts -- Coventry Patmore -- Sarojini Naidu -- Welsh
+  poetry.
+title: Figures of Several Centuries
+url: http://www.gutenberg.org/ebooks/21407
